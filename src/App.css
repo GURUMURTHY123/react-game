@@ -1,0 +1,19 @@
+.App-container{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+}
+
+.list-container{
+	padding:0px;
+	list-style-type:none;
+	display:flex;
+	flex-wrap:wrap;
+        width:60vw;
+}
+
+
+
+
